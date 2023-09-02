@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartPage.unity
+    guid: 3272f7cbf30c3c149b68e146564ce39d
+  - enabled: 1
+    path: Assets/Scenes/LoginPage.unity
+    guid: 207fa69cbc705934995fc1c4afa9f671
+  - enabled: 1
+    path: Assets/Scenes/SignUpPage.unity
+    guid: 0aced1ad9ff08af4fa431925e314fa48
+  - enabled: 1
+    path: Assets/Scenes/ForumListPage.unity
+    guid: 530c4d207407baa48ad1caa92ca328ba
+  - enabled: 1
+    path: Assets/Scenes/AboutForumPage.unity
+    guid: 09bf6063699e06f49976f73a7b03f59b
+  - enabled: 1
+    path: Assets/Scenes/Account.unity
+    guid: f8681dfdcbc02b840b3f05a829894852
+  - enabled: 1
+    path: Assets/Scenes/Favourite.unity
+    guid: 3b67273d96cb07f49aefd7a9557d82cb
+  - enabled: 1
+    path: Assets/Scenes/QRCodeScanPage.unity
+    guid: dac4f954bf2214a42bb6f4759c68600d
+  - enabled: 1
+    path: Assets/Scenes/BlankAR.unity
+    guid: 6bdce89659816455b9f906fc62d19910
+  - enabled: 1
+    path: Assets/Scenes/Account 1.unity
+    guid: 4c3a9e155333ed64dbe256ac9125dfa3
+  - enabled: 1
+    path: Assets/Scenes/Favourite 1.unity
+    guid: 8f004d2c1ba5a6e44975e7056857f4c7
+  - enabled: 1
+    path: Assets/Scenes/ModelLoaderPage.unity
+    guid: 94cc6452097584e48885d23bb57b71b4
+  m_configObjects:
+    Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: 744b813df90924c169af73489b8325de,
+      type: 2}
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: b2d89123bd0f1984ea19734f241ab90b,
+      type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: de8a8e4f987434338a4b1062feb8d069,
+      type: 2}
+    com.unity.xr.arcore.PlayerSettings: {fileID: 11400000, guid: c2f7b8d7c0bff4d10874cbcf3f24af78,
+      type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: fb769f61cd453ac4bb2b007f2a3e622e,
+      type: 2}
+    com.unity.xr.arkit.PlayerSettings: {fileID: 11400000, guid: b27ec7d82a91a48e69fd689ad6808e5e,
+      type: 2}
+    com.unity.xr.magicleap.magic_leap_settings: {fileID: 11400000, guid: 1eb95d77acb39444e8cf44313496a874,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 58f40b12bbc864f3c96c6505a9a1e1e3,
+      type: 2}
+    xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: dac1f33d9e5f88045b9450d17f3f1374,
+      type: 2}
